@@ -1,4 +1,4 @@
-// Script for Illustrator CS5, folds a selection along the uppermost line  
+// Script for Illustrator CS6, folds a selection along the uppermost line  
 if (app.documents.length > 0 && app.activeDocument.pathItems.length > 0) {
   var doc = app.activeDocument;
   var pathArray = [];
