@@ -1,2 +1,2 @@
-# Scripts-for-Illustrator-Diagramming
+Diagramming
 Scripts for origami Diagrams 
