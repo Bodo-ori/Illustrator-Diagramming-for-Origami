@@ -24,8 +24,6 @@ function invertSelectionZOrder() {
         // Send each item to the front in reverse order (last selected will be brought to the front)
         item.zOrder(ZOrderMethod.SENDTOBACK);
     }
-
-    alert("Z order of selected objects (including groups) inverted successfully.");
 }
 
 // Function to flatten the selection (unpack groups)
