@@ -1612,8 +1612,8 @@
 	]
 	/keyIndex 0
 	/colorIndex 0
-	/isOpen 0
-	/eventCount 5
+	/isOpen 1
+	/eventCount 6
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_commandManager)
@@ -1649,6 +1649,31 @@
 	}
 	/event-2 {
 		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_styles)
+		/localizedName [ 11
+			47726166696b7374696c65
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 2
+		/parameter-1 {
+			/key 1937013100
+			/showInPalette -1
+			/type (ustring)
+			/value [ 19
+				4172726f775f4d6f756e7461696e5f30322033
+			]
+		}
+		/parameter-2 {
+			/key 1633969268
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+	/event-3 {
+		/useRulersIn1stQuadrant 0
 		/internalName (adobe_copy)
 		/localizedName [ 8
 			4b6f70696572656e
@@ -1658,7 +1683,7 @@
 		/hasDialog 0
 		/parameterCount 0
 	}
-	/event-3 {
+	/event-4 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_pasteInPlace)
 		/localizedName [ 29
@@ -1669,7 +1694,7 @@
 		/hasDialog 0
 		/parameterCount 0
 	}
-	/event-4 {
+	/event-5 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_sendToFront)
 		/localizedName [ 18
@@ -1680,7 +1705,7 @@
 		/hasDialog 0
 		/parameterCount 0
 	}
-	/event-5 {
+	/event-6 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_setStroke)
 		/localizedName [ 17
